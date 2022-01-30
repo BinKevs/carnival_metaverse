@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carnival_metaverse/static/css/main.1969ac56.css",
+    "main.js": "/carnival_metaverse/static/js/main.95d0c5c9.js",
+    "static/js/787.f8e4fda3.chunk.js": "/carnival_metaverse/static/js/787.f8e4fda3.chunk.js",
+    "static/media/fusion_upgrade_img.png": "/carnival_metaverse/static/media/fusion_upgrade_img.9e830734b4147240ecb7.png",
+    "static/media/color-game-img.png": "/carnival_metaverse/static/media/color-game-img.51ae6d20247903bf7f6a.png",
+    "static/media/landing-bg.png": "/carnival_metaverse/static/media/landing-bg.af3760f2b6bb78f0b51d.png",
+    "static/media/CVAL_Token_background.png": "/carnival_metaverse/static/media/CVAL_Token_background.bd3158ed0d61a91536cb.png",
+    "static/media/landing-color-game.png": "/carnival_metaverse/static/media/landing-color-game.1d85479038694c376861.png",
+    "static/media/CVAL-logo.png": "/carnival_metaverse/static/media/CVAL-logo.e9f0d756fd9985dabdb2.png",
+    "static/media/close.png": "/carnival_metaverse/static/media/close.922c860c410c74724836.png",
+    "static/media/color-game-icon.png": "/carnival_metaverse/static/media/color-game-icon.164d1555fa4ce8440185.png",
+    "static/media/carnival-metaverse-logo.png": "/carnival_metaverse/static/media/carnival-metaverse-logo.70f1fc4aee7b6c8f07c5.png",
+    "static/media/logo.svg": "/carnival_metaverse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/carnival_metaverse/index.html",
+    "main.1969ac56.css.map": "/carnival_metaverse/static/css/main.1969ac56.css.map",
+    "main.95d0c5c9.js.map": "/carnival_metaverse/static/js/main.95d0c5c9.js.map",
+    "787.f8e4fda3.chunk.js.map": "/carnival_metaverse/static/js/787.f8e4fda3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1969ac56.css",
+    "static/js/main.95d0c5c9.js"
+  ]
+}
